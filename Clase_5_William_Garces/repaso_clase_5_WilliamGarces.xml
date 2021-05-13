@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<root ptr="0x55d59d3e70f0" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55d59d3d2440" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="54" nContent="113"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="12240" height="31964" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="12240" height="31964"/>
+ </infos>
+ <page ptr="0x55d59d3e9290" id="1" symbol="11SwPageFrame" next="97" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="284" top="284" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x55d59d3da130" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="1418" top="1418" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x55d59d3e93e0" id="3" symbol="11SwTextFrame" next="33" upper="2" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="1418" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Componentes de la computadora    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3410"/>
+    <Text nLength="29" nType="PortionType::Text" nHeight="276" nWidth="3152" Portion="Componentes de la computadora"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3411"/>
+    <LineBreak nWidth="9973" Line="Componentes de la computadora"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a0128110" id="33" symbol="11SwTextFrame" next="32" prev="3" upper="2" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="1694" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59ff65020" id="32" symbol="11SwTextFrame" next="34" prev="33" upper="2" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="1970" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Placa madre:    <Text nLength="12" nType="PortionType::Para" nHeight="276" nWidth="1246" Portion="Placa madre:"/>
+    <LineBreak nWidth="1246" Line="Placa madre:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59feabad0" id="34" symbol="11SwTextFrame" next="38" prev="32" upper="2" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="2246" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+Es la placa principal de cualquier computadora, al que todos los demás dispositivos se conectan, tanto de manera directa (como los circuitos eléctricos interconectados), como indirecta (a través de puertos USB u otro tipo de conectores).     <Text nLength="103" nType="PortionType::Para" nHeight="276" nWidth="9836" Portion="Es la placa principal de cualquier computadora, al que todos los dem&#xE1;s dispositivos se conectan, tanto "/>
+    <LineBreak nWidth="9836" Line="Es la placa principal de cualquier computadora, al que todos los dem&#xE1;s dispositivos se conectan, tanto "/>
+    <Text nLength="103" nType="PortionType::Lay" nHeight="276" nWidth="9775" Portion="de manera directa (como los circuitos el&#xE9;ctricos interconectados), como indirecta (a trav&#xE9;s de puertos "/>
+    <LineBreak nWidth="9775" Line="de manera directa (como los circuitos el&#xE9;ctricos interconectados), como indirecta (a trav&#xE9;s de puertos "/>
+    <Text nLength="32" nType="PortionType::Lay" nHeight="276" nWidth="3099" Portion="USB u otro tipo de conectores). "/>
+    <LineBreak nWidth="3099" Line="USB u otro tipo de conectores). "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a01fce40" id="38" symbol="11SwTextFrame" next="37" prev="34" upper="2" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3074" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fd7bd70" id="37" symbol="11SwTextFrame" next="39" prev="38" upper="2" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3350" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Procesador:    <Text nLength="11" nType="PortionType::Para" nHeight="276" nWidth="1133" Portion="Procesador:"/>
+    <LineBreak nWidth="1133" Line="Procesador:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59dd3f500" id="39" symbol="11SwTextFrame" next="43" prev="37" upper="2" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3626" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+También llamado unidad central de procesamiento o CPU, es el “cerebro” de la computadora, su función es interpretar y ejecutar las instrucciones a través de operaciones básicas: aritméticas y lógicas. Es quien “dirige” las operaciones que realiza la computadora.    <Text nLength="93" nType="PortionType::Para" nHeight="276" nWidth="9319" Portion="Tambi&#xE9;n llamado unidad central de procesamiento o CPU, es el &#x201C;cerebro&#x201D; de la computadora, su "/>
+    <LineBreak nWidth="9319" Line="Tambi&#xE9;n llamado unidad central de procesamiento o CPU, es el &#x201C;cerebro&#x201D; de la computadora, su "/>
+    <Text nLength="108" nType="PortionType::Lay" nHeight="276" nWidth="9968" Portion="funci&#xF3;n es interpretar y ejecutar las instrucciones a trav&#xE9;s de operaciones b&#xE1;sicas: aritm&#xE9;ticas y l&#xF3;gicas. "/>
+    <LineBreak nWidth="9968" Line="funci&#xF3;n es interpretar y ejecutar las instrucciones a trav&#xE9;s de operaciones b&#xE1;sicas: aritm&#xE9;ticas y l&#xF3;gicas. "/>
+    <Text nLength="61" nType="PortionType::Lay" nHeight="276" nWidth="5910" Portion="Es quien &#x201C;dirige&#x201D; las operaciones que realiza la computadora."/>
+    <LineBreak nWidth="5910" Line="Es quien &#x201C;dirige&#x201D; las operaciones que realiza la computadora."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a7d3f10" id="43" symbol="11SwTextFrame" next="42" prev="39" upper="2" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="4454" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fe42cf0" id="42" symbol="11SwTextFrame" next="44" prev="43" upper="2" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="4730" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Memoria RAM:    <Text nLength="12" nType="PortionType::Para" nHeight="276" nWidth="1553" Portion="Memoria RAM:"/>
+    <LineBreak nWidth="1553" Line="Memoria RAM:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fc0eb80" id="44" symbol="11SwTextFrame" next="48" prev="42" upper="2" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="5006" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+La memoria RAM es el componentes que almacena información de manera temporal. Tiene la particularidad de que el contenido de la misma se elimina cada vez que se apaga la computadora    <Text nLength="87" nType="PortionType::Para" nHeight="276" nWidth="9110" Portion="La memoria RAM es el componentes que almacena informaci&#xF3;n de manera temporal. Tiene la "/>
+    <LineBreak nWidth="9110" Line="La memoria RAM es el componentes que almacena informaci&#xF3;n de manera temporal. Tiene la "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="276" nWidth="9249" Portion="particularidad de que el contenido de la misma se elimina cada vez que se apaga la computadora"/>
+    <LineBreak nWidth="9249" Line="particularidad de que el contenido de la misma se elimina cada vez que se apaga la computadora"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fd8f130" id="48" symbol="11SwTextFrame" next="47" prev="44" upper="2" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="5558" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fd63240" id="47" symbol="11SwTextFrame" next="49" prev="48" upper="2" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="5834" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Memoria ROM:    <Text nLength="12" nType="PortionType::Para" nHeight="276" nWidth="1553" Portion="Memoria ROM:"/>
+    <LineBreak nWidth="1553" Line="Memoria ROM:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59dd27ed0" id="49" symbol="11SwTextFrame" next="53" prev="47" upper="2" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="6110" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+La memoria ROM, por otra parte, almacena información de manera permanente. Guarda todo lo relacionado a la configuración inicial para el arranque de la máquina y funcionamiento básico.    <Text nLength="90" nType="PortionType::Para" nHeight="276" nWidth="9296" Portion="La memoria ROM, por otra parte, almacena informaci&#xF3;n de manera permanente. Guarda todo lo "/>
+    <LineBreak nWidth="9296" Line="La memoria ROM, por otra parte, almacena informaci&#xF3;n de manera permanente. Guarda todo lo "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="276" nWidth="9062" Portion="relacionado a la configuraci&#xF3;n inicial para el arranque de la m&#xE1;quina y funcionamiento b&#xE1;sico."/>
+    <LineBreak nWidth="9062" Line="relacionado a la configuraci&#xF3;n inicial para el arranque de la m&#xE1;quina y funcionamiento b&#xE1;sico."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a39e890" id="53" symbol="11SwTextFrame" next="52" prev="49" upper="2" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="6662" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a5aca00" id="52" symbol="11SwTextFrame" next="55" prev="53" upper="2" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="6938" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Tarjeta de Video y de sonido:    <Text nLength="29" nType="PortionType::Para" nHeight="276" nWidth="2810" Portion="Tarjeta de Video y de sonido:"/>
+    <LineBreak nWidth="2810" Line="Tarjeta de Video y de sonido:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a04902a0" id="55" symbol="11SwTextFrame" next="58" prev="52" upper="2" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7214" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Son componentes internos que se conectan a la placa madre.    <Text nLength="58" nType="PortionType::Para" nHeight="276" nWidth="5797" Portion="Son componentes internos que se conectan a la placa madre."/>
+    <LineBreak nWidth="5797" Line="Son componentes internos que se conectan a la placa madre."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a578580" id="58" symbol="11SwTextFrame" next="61" prev="55" upper="2" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7490" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+La placa de video es la encargada de mostrar imágenes en el monitor.    <Text nLength="68" nType="PortionType::Para" nHeight="276" nWidth="6652" Portion="La placa de video es la encargada de mostrar im&#xE1;genes en el monitor."/>
+    <LineBreak nWidth="6652" Line="La placa de video es la encargada de mostrar im&#xE1;genes en el monitor."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a02a5a20" id="61" symbol="11SwTextFrame" next="66" prev="58" upper="2" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7766" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+La placa de sonido permite que la computadora reproducir sonidos a través de auriculares o parlantes. También permite recibir sonidos a través de micrófonos.    <Text nLength="102" nType="PortionType::Para" nHeight="276" nWidth="9829" Portion="La placa de sonido permite que la computadora reproducir sonidos a trav&#xE9;s de auriculares o parlantes. "/>
+    <LineBreak nWidth="9829" Line="La placa de sonido permite que la computadora reproducir sonidos a trav&#xE9;s de auriculares o parlantes. "/>
+    <Text nLength="55" nType="PortionType::Lay" nHeight="276" nWidth="5408" Portion="Tambi&#xE9;n permite recibir sonidos a trav&#xE9;s de micr&#xF3;fonos."/>
+    <LineBreak nWidth="5408" Line="Tambi&#xE9;n permite recibir sonidos a trav&#xE9;s de micr&#xF3;fonos."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a476c60" id="66" symbol="11SwTextFrame" next="65" prev="61" upper="2" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="8318" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59e3ee650" id="65" symbol="11SwTextFrame" next="68" prev="66" upper="2" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="8594" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Discos Duros:    <Text nLength="13" nType="PortionType::Para" nHeight="276" nWidth="1367" Portion="Discos Duros:"/>
+    <LineBreak nWidth="1367" Line="Discos Duros:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59e49c190" id="68" symbol="11SwTextFrame" next="71" prev="65" upper="2" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="8870" width="9972" height="1104" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="1104"/>
+    </infos>
+Almacena datos de manera permanente. Es información que la computadora no necesita de manera inmediata para su funcionamiento. Puede almacenar archivos de todo tipo como documentos, imágenes, videos, audios, etc. El dispositivo de almacenamiento secundario interno es el disco rígido, o disco duro.    <Text nLength="93" nType="PortionType::Para" nHeight="276" nWidth="9562" Portion="Almacena datos de manera permanente. Es informaci&#xF3;n que la computadora no necesita de manera "/>
+    <LineBreak nWidth="9562" Line="Almacena datos de manera permanente. Es informaci&#xF3;n que la computadora no necesita de manera "/>
+    <Text nLength="89" nType="PortionType::Lay" nHeight="276" nWidth="9023" Portion="inmediata para su funcionamiento. Puede almacenar archivos de todo tipo como documentos, "/>
+    <LineBreak nWidth="9023" Line="inmediata para su funcionamiento. Puede almacenar archivos de todo tipo como documentos, "/>
+    <Text nLength="104" nType="PortionType::Text" nHeight="276" nWidth="9937" Portion="im&#xE1;genes, videos, audios, etc. El dispositivo de almacenamiento secundario interno es el disco r&#xED;gido, o"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9937" Line="im&#xE1;genes, videos, audios, etc. El dispositivo de almacenamiento secundario interno es el disco r&#xED;gido, o "/>
+    <Text nLength="11" nType="PortionType::Lay" nHeight="276" nWidth="1067" Portion="disco duro."/>
+    <LineBreak nWidth="1067" Line="disco duro."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a57abb0" id="71" symbol="11SwTextFrame" next="72" prev="68" upper="2" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="9974" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fe71b80" id="72" symbol="11SwTextFrame" next="54" prev="71" upper="2" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="10250" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fe18df0" id="54" symbol="11SwTextFrame" next="74" prev="72" upper="2" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="10526" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+El Microprocesador – El cerebro de la computadora    <Text nLength="49" nType="PortionType::Para" nHeight="276" nWidth="4978" Portion="El Microprocesador &#x2013; El cerebro de la computadora"/>
+    <LineBreak nWidth="4978" Line="El Microprocesador &#x2013; El cerebro de la computadora"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59ff39850" id="74" symbol="11SwTextFrame" next="73" prev="54" upper="2" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="10802" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59ee0e850" id="73" symbol="11SwTextFrame" next="78" prev="74" upper="2" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="11078" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+El microprocesador o simplemente procesador (CPU) es el cerebro del sistema, justamente procesa todo lo que ocurre en la PC y ejecuta todas las acciones que existen.    <Text nLength="96" nType="PortionType::Para" nHeight="276" nWidth="9570" Portion="El microprocesador o simplemente procesador (CPU) es el cerebro del sistema, justamente procesa "/>
+    <LineBreak nWidth="9570" Line="El microprocesador o simplemente procesador (CPU) es el cerebro del sistema, justamente procesa "/>
+    <Text nLength="69" nType="PortionType::Lay" nHeight="276" nWidth="6531" Portion="todo lo que ocurre en la PC y ejecuta todas las acciones que existen."/>
+    <LineBreak nWidth="6531" Line="todo lo que ocurre en la PC y ejecuta todas las acciones que existen."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a00c14e0" id="78" symbol="11SwTextFrame" next="77" prev="73" upper="2" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="11630" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fdf3dc0" id="77" symbol="11SwTextFrame" next="82" prev="78" upper="2" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="11906" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+El procesador es un dispositivo que necesita comunicarse con muchos otros elementos. Lee datos e instrucciones de la memoria RAM, requiere información desde perifericos de entrada y se comunica con periféricos de salida para mostrar los resultados.    <Text nLength="97" nType="PortionType::Para" nHeight="276" nWidth="9570" Portion="El procesador es un dispositivo que necesita comunicarse con muchos otros elementos. Lee datos e "/>
+    <LineBreak nWidth="9570" Line="El procesador es un dispositivo que necesita comunicarse con muchos otros elementos. Lee datos e "/>
+    <Text nLength="97" nType="PortionType::Lay" nHeight="276" nWidth="9683" Portion="instrucciones de la memoria RAM, requiere informaci&#xF3;n desde perifericos de entrada y se comunica "/>
+    <LineBreak nWidth="9683" Line="instrucciones de la memoria RAM, requiere informaci&#xF3;n desde perifericos de entrada y se comunica "/>
+    <Text nLength="54" nType="PortionType::Lay" nHeight="276" nWidth="5038" Portion="con perif&#xE9;ricos de salida para mostrar los resultados."/>
+    <LineBreak nWidth="5038" Line="con perif&#xE9;ricos de salida para mostrar los resultados."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a00809a0" id="82" symbol="11SwTextFrame" next="81" prev="77" upper="2" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="12734" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59ff9f0d0" id="81" symbol="11SwTextFrame" next="85" prev="82" upper="2" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="13010" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Zócalo / Socket de un CPU:    <Text nLength="26" nType="PortionType::Para" nHeight="276" nWidth="2686" Portion="Z&#xF3;calo / Socket de un CPU:"/>
+    <LineBreak nWidth="2686" Line="Z&#xF3;calo / Socket de un CPU:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a0127dc0" id="85" symbol="11SwTextFrame" next="89" prev="81" upper="2" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="13286" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+El zócalo de CPU se usa para fijar y conectar el procesador, sin soldarlo, lo cual permite quitar y poner diferentes modelos y familias sin tener que cambiar de placa base.     <Text nLength="106" nType="PortionType::Para" nHeight="276" nWidth="9933" Portion="El z&#xF3;calo de CPU se usa para fijar y conectar el procesador, sin soldarlo, lo cual permite quitar y poner "/>
+    <LineBreak nWidth="9933" Line="El z&#xF3;calo de CPU se usa para fijar y conectar el procesador, sin soldarlo, lo cual permite quitar y poner "/>
+    <Text nLength="67" nType="PortionType::Lay" nHeight="276" nWidth="6410" Portion="diferentes modelos y familias sin tener que cambiar de placa base. "/>
+    <LineBreak nWidth="6410" Line="diferentes modelos y familias sin tener que cambiar de placa base. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a5a24a0" id="89" symbol="11SwTextFrame" next="88" prev="85" upper="2" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="13838" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fe13ea0" id="88" symbol="11SwTextFrame" next="92" prev="89" upper="2" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="14114" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Núcleos:    <Text nLength="8" nType="PortionType::Para" nHeight="276" nWidth="853" Portion="N&#xFA;cleos:"/>
+    <LineBreak nWidth="853" Line="N&#xFA;cleos:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59ee2dc10" id="92" symbol="11SwTextFrame" next="96" prev="88" upper="2" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="14390" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Los núcleos son como un subprocesador en sí mismo.    <Text nLength="50" nType="PortionType::Para" nHeight="276" nWidth="5166" Portion="Los n&#xFA;cleos son como un subprocesador en s&#xED; mismo."/>
+    <LineBreak nWidth="5166" Line="Los n&#xFA;cleos son como un subprocesador en s&#xED; mismo."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a00b1790" id="96" symbol="11SwTextFrame" prev="92" upper="2" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="14666" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d59e45b400" id="97" symbol="11SwPageFrame" prev="1" upper="0" lower="98">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="284" top="16408" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x55d5a0124800" id="98" symbol="11SwBodyFrame" upper="97" lower="95">
+   <infos>
+    <bounds left="1418" top="17542" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x55d59a5b5a00" id="95" symbol="11SwTextFrame" next="101" upper="98" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="17542" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Hilos / Threads de un CPU:    <Text nLength="26" nType="PortionType::Para" nHeight="276" nWidth="2655" Portion="Hilos / Threads de un CPU:"/>
+    <LineBreak nWidth="2655" Line="Hilos / Threads de un CPU:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a01eb2e0" id="101" symbol="11SwTextFrame" next="105" prev="95" upper="98" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="17818" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+Los hilos son el flujo de control de programa. Ayudan de forma directa a la manera en la que un procesador administra sus tareas. Su función es que los “tiempos de espera” entre procesos se aprovechen mejor.    <Text nLength="96" nType="PortionType::Para" nHeight="276" nWidth="9248" Portion="Los hilos son el flujo de control de programa. Ayudan de forma directa a la manera en la que un "/>
+    <LineBreak nWidth="9248" Line="Los hilos son el flujo de control de programa. Ayudan de forma directa a la manera en la que un "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="276" nWidth="9036" Portion="procesador administra sus tareas. Su funci&#xF3;n es que los &#x201C;tiempos de espera&#x201D; entre procesos se "/>
+    <LineBreak nWidth="9036" Line="procesador administra sus tareas. Su funci&#xF3;n es que los &#x201C;tiempos de espera&#x201D; entre procesos se "/>
+    <Text nLength="17" nType="PortionType::Lay" nHeight="276" nWidth="1773" Portion="aprovechen mejor."/>
+    <LineBreak nWidth="1773" Line="aprovechen mejor."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a45db00" id="105" symbol="11SwTextFrame" next="104" prev="101" upper="98" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="18646" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59d584920" id="104" symbol="11SwTextFrame" next="108" prev="105" upper="98" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="18922" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Memoria caché de un CPU:    <Text nLength="24" nType="PortionType::Para" nHeight="276" nWidth="2666" Portion="Memoria cach&#xE9; de un CPU:"/>
+    <LineBreak nWidth="2666" Line="Memoria cach&#xE9; de un CPU:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a01df600" id="108" symbol="11SwTextFrame" next="112" prev="104" upper="98" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="19198" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+La memoria caché es la memoria más rápida del sistema y se utiliza para acelerar el acceso a memoria de nuestro procesador. Almacena los datos e instrucciones más utilizados por el sistema para evitar perder tiempo y tener que acceder a ellos en la RAM.    <Text nLength="101" nType="PortionType::Para" nHeight="276" nWidth="9881" Portion="La memoria cach&#xE9; es la memoria m&#xE1;s r&#xE1;pida del sistema y se utiliza para acelerar el acceso a memoria "/>
+    <LineBreak nWidth="9881" Line="La memoria cach&#xE9; es la memoria m&#xE1;s r&#xE1;pida del sistema y se utiliza para acelerar el acceso a memoria "/>
+    <Text nLength="100" nType="PortionType::Lay" nHeight="276" nWidth="9543" Portion="de nuestro procesador. Almacena los datos e instrucciones m&#xE1;s utilizados por el sistema para evitar "/>
+    <LineBreak nWidth="9543" Line="de nuestro procesador. Almacena los datos e instrucciones m&#xE1;s utilizados por el sistema para evitar "/>
+    <Text nLength="52" nType="PortionType::Lay" nHeight="276" nWidth="5124" Portion="perder tiempo y tener que acceder a ellos en la RAM."/>
+    <LineBreak nWidth="5124" Line="perder tiempo y tener que acceder a ellos en la RAM."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59e4487d0" id="112" symbol="11SwTextFrame" next="111" prev="108" upper="98" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="20026" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59a4c94d0" id="111" symbol="11SwTextFrame" next="115" prev="112" upper="98" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="20302" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Frecuencia de un CPU:    <Text nLength="21" nType="PortionType::Para" nHeight="276" nWidth="2233" Portion="Frecuencia de un CPU:"/>
+    <LineBreak nWidth="2233" Line="Frecuencia de un CPU:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d5a0159a70" id="115" symbol="11SwTextFrame" next="119" prev="111" upper="98" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="20578" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+El procesador está gobernado por un reloj que sincroniza sus componentes y limita las operaciones que es capaz de realizar en una determinada cantidad de tiempo. La frecuencia es el número de cambios que se hace en un determinado segundo.     <Text nLength="102" nType="PortionType::Para" nHeight="276" nWidth="9956" Portion="El procesador est&#xE1; gobernado por un reloj que sincroniza sus componentes y limita las operaciones que "/>
+    <LineBreak nWidth="9956" Line="El procesador est&#xE1; gobernado por un reloj que sincroniza sus componentes y limita las operaciones que "/>
+    <Text nLength="101" nType="PortionType::Text" nHeight="276" nWidth="9968" Portion="es capaz de realizar en una determinada cantidad de tiempo. La frecuencia es el n&#xFA;mero de cambios que"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9968" Line="es capaz de realizar en una determinada cantidad de tiempo. La frecuencia es el n&#xFA;mero de cambios que "/>
+    <Text nLength="35" nType="PortionType::Lay" nHeight="276" nWidth="3525" Portion="se hace en un determinado segundo. "/>
+    <LineBreak nWidth="3525" Line="se hace en un determinado segundo. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59ff31ae0" id="119" symbol="11SwTextFrame" next="118" prev="115" upper="98" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="21406" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59fedb610" id="118" symbol="11SwTextFrame" next="120" prev="119" upper="98" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="21682" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+El IPC:    <Text nLength="7" nType="PortionType::Para" nHeight="276" nWidth="714" Portion="El IPC:"/>
+    <LineBreak nWidth="714" Line="El IPC:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d59ff9b680" id="120" symbol="11SwTextFrame" prev="118" upper="98" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="21958" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+El IPC mide el número de instrucciones que un procesador es capaz de realizar en cada ciclo de su reloj interno.     <Text nLength="103" nType="PortionType::Text" nHeight="276" nWidth="9949" Portion="El IPC mide el n&#xFA;mero de instrucciones que un procesador es capaz de realizar en cada ciclo de su reloj"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9949" Line="El IPC mide el n&#xFA;mero de instrucciones que un procesador es capaz de realizar en cada ciclo de su reloj "/>
+    <Text nLength="9" nType="PortionType::Lay" nHeight="276" nWidth="800" Portion="interno. "/>
+    <LineBreak nWidth="800" Line="interno. "/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
