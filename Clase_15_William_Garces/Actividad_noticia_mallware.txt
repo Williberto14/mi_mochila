@@ -1,0 +1,21 @@
+1-¿Qué tipo de amenaza es?
+
+Un ramsomware
+
+2-¿Cómo comienza y cómo se propaga esta amenaza?
+
+Comienza con un ataque de ransomware del grupo de ransomware REvil en la red del proveedor de Apple: Quanta.
+
+Propagacion:
+
+-Se infecta la red
+-Toma posesion de grandes cantidades de dibujos confidenciales y gigabytes de datos personales de varios
+productos de la compañía estadounidense, como MacBooks y Apple Watch
+-Inhabilita el acceso al ordenador y a la informacion que contiene el mismo
+-Amenaza con publicarlos
+-Pide rescate por ellos.
+
+
+3-¿Hay más de una amenaza aplicada ?
+Si, tenemos presencia de un ramsomware y un spyware en este ataque.
+
